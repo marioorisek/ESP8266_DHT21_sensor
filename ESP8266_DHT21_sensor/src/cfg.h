@@ -1,4 +1,4 @@
-#define DHT_SENSOR_PIN D2
+#define DHT_SENSOR_PIN D3
 #define DHT_TYPE DHT21
 #define SCREEN_DELAY 4000
 
