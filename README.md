@@ -1,4 +1,4 @@
-# Simple DHT 21 based Wi-Fi tempearature sensor
+# DHT 21 based Wi-Fi tempearature sensor
 
 Simple Wi-Fi tempearature/humidity sensor with 0.91" OLED display and ThingSpeak data upload.
 
