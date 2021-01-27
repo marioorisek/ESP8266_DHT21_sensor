@@ -1,7 +1,10 @@
-# DHT 21 based WiFi tempearature Sensor
+# Simple DHT 21 based Wi-Fi tempearature sensor
 
-Simple WiFi tempearature/humidity sensor with OLED display
+Simple Wi-Fi tempearature/humidity sensor with 0.91" OLED display and ThingSpeak data upload.
 
 ### ESP8266
+https://dratek.cz/arduino/3205-esp8266-vyvojova-deska-s-0-91-oled-displejem.html
+0.91" OLED display 128 x 32 pixels
+
 ### DHT21 tempearature/humidity Sensor
-OLED 0.91" display
+https://dratek.cz/arduino/1257-eses-teplomer-vlhkomer-pro-jednodeskove-pocitace.html
